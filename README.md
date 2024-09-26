@@ -12,6 +12,7 @@
   - [Airline Reservation System](https://github.com/NevaihaJewel/AirlineReservation)
   - [Math Test Program](https://github.com/NevaihaJewel/MathTest)
   - [Data Processing Application](https://github.com/NevaihaJewel/ProcessingApp)
+  - [Accounct Balance Calculator](https://github.com/NevaihaJewel/AccountBalance)
 
 <h2> 🤳 Connect with me:</h2>
 
