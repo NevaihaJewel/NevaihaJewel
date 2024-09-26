@@ -3,7 +3,7 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-- <b>C</b>
+- <b>C (#/++)</b>
   - [Square Root Calculator](https://github.com/NevaihaJewel/SquareRootCalculator)
   - [Supermarket Checkout System](https://github.com/NevaihaJewel/SupermarketCheckout)
   - [Body Mass Index (BMI) Calculator](https://github.com/NevaihaJewel/BMI_Calculator)
