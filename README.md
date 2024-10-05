@@ -16,6 +16,7 @@
  
 - <b>Python</b>
   - [Building and Calling Functions](https://github.com/NevaihaJewel/BuildAndCall)
+  - [Spot the Colorful Turtle](https://github.com/NevaihaJewel/ColorfulTurtle)
 
 <h2> 🤳 Connect with me:</h2>
 
