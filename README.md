@@ -1,4 +1,4 @@
-<h1>Hi, I'm Nevaiha! <br/><a>Programmer</a>,
+<h1>Hi, I'm Nevaiha! <br/><a>Programmer</a> and
 <a href="https://www.linkedin.com/in/nevaiha-jewel1/">Software Professional</h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
