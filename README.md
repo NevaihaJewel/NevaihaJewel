@@ -19,6 +19,7 @@
   - [Spot the Colorful Turtle](https://github.com/NevaihaJewel/ColorfulTurtle)
   - [Guess the Number](https://github.com/NevaihaJewel/GuessNumber)
   - [Number Sorter](https://github.com/NevaihaJewel/NumberSorter)
+  - [MS Paint](https://github.com/NevaihaJewel/MSPaint)
 
 <h2> 🤳 Connect with me:</h2>
 
