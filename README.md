@@ -18,6 +18,7 @@
   - [Building and Calling Functions](https://github.com/NevaihaJewel/BuildAndCall)
   - [Spot the Colorful Turtle](https://github.com/NevaihaJewel/ColorfulTurtle)
   - [Guess the Number](https://github.com/NevaihaJewel/GuessNumber)
+  - [Number Sorter](https://github.com/NevaihaJewel/NumberSorter)
 
 <h2> 🤳 Connect with me:</h2>
 
