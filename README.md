@@ -12,7 +12,10 @@
   - [Extracting Facility Citations](https://github.com/NevaihaJewel/ExtractingCitations) 
   - [Spot the Colorful Turtle](https://github.com/NevaihaJewel/ColorfulTurtle)
   - [Number Sorter](https://github.com/NevaihaJewel/NumberSorter) 
-  - [MS Paint](https://github.com/NevaihaJewel/MSPaint) 
+  - [MS Paint](https://github.com/NevaihaJewel/MSPaint)
+ 
+- <b>AWS</b>
+  - [Amazon EC2 and Auto Scaling](https://github.com/NevaihaJewel/AutoScaling)
 
 <h2> 🤳 Connect with me:</h2>
 
