@@ -1,7 +1,7 @@
 <h1>Hi, I'm Nevaiha! <br/><a>Programmer</a> and
 <a href="https://www.linkedin.com/in/nevaiha-jewel1/">Software Professional</h1>
 
-<h2>👨‍💻 Software Development Projects:</h2>
+<h2>Software Development Projects:</h2>
 
 - <b>C (#/++)</b>
   - [Supermarket Checkout System / C](https://github.com/NevaihaJewel/SupermarketCheckout) 
@@ -13,7 +13,9 @@
   - [Spot the Colorful Turtle](https://github.com/NevaihaJewel/ColorfulTurtle)
   - [Number Sorter](https://github.com/NevaihaJewel/NumberSorter) 
   - [MS Paint](https://github.com/NevaihaJewel/MSPaint)
- 
+
+<h2>Cloud Computing Projects:</h2>
+
 - <b>AWS</b>
   - [Amazon EC2 and Auto Scaling](https://github.com/NevaihaJewel/AutoScaling)
   - [Amazon S3 Implementation](https://github.com/NevaihaJewel/S3_Implementation)
