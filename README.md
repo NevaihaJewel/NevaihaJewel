@@ -16,6 +16,7 @@
  
 - <b>AWS</b>
   - [Amazon EC2 and Auto Scaling](https://github.com/NevaihaJewel/AutoScaling)
+  - [Amazon S3 Implementation](https://github.com/NevaihaJewel/S3_Implementation)
 
 <h2> 🤳 Connect with me:</h2>
 
